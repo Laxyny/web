@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-           <code></code> Bienvenue
+          <code></code> Bienvenue
         </p>
         <a
           className="App-link"
@@ -15,7 +15,15 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Laxyny
+          Github
+        </a>
+        <a
+          className="App-link"
+          href="https://laxyny.github.io/React/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Testeur de Résilience API
         </a>
       </header>
     </div>
